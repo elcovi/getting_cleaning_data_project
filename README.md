@@ -4,6 +4,7 @@ This repo is part of the Getting & Cleaning Data Project. The CodeBook file expl
 
 The script, without comments is as follows:
 #-----------------------
+```{r}
 library(plyr)           
 library(reshape2)     
 
@@ -53,6 +54,7 @@ write.table(per_subj_act_set,
             sep="\t",
             row.names = FALSE)
 
+```
 
 
 
