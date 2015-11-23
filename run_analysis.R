@@ -1,6 +1,6 @@
 ## GETTING & CLEANING DATA. Project.
 #  November 22, 2015
-
+#  Author: elcovi
 ##======================================================================
 
 ## Load packages:
