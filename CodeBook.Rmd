@@ -1,7 +1,6 @@
 ---
 output: html_document
 title: "GETTING & CLEANING DATA. Project."
-author: Ignacio L. Coviella
 date: November 22, 2015
 
 ---
