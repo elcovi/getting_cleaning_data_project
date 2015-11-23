@@ -2,7 +2,7 @@
 output: html_document
 title: "GETTING & CLEANING DATA. Project."
 date: November 22, 2015
-
+Author: elcovi
 ---
 
 ###GETTING & CLEANING DATA. Project.
